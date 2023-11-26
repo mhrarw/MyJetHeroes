@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyJetHeroes</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">About</string>
+    <string name="back">Back</string>
+    <string name="myname">Muchammad Raharjo Waluyo</string>
+    <string name="myemail">a036dkx3836@bangkit.academy</string>
+</resources>
